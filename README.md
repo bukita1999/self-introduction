@@ -1,2 +1,1 @@
-# self-introduction
-普通且自信的自我介绍
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukit1999)](https://github.com/anuraghazra/github-readme-stats)
